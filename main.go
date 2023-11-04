@@ -27,7 +27,7 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 
 	html := `<html>
 	<body>
-		<h1>Hello Coding Club</h1>
+		<h1>Hello Not Spiderman</h1>
 	</body>
 	</html>
 	`
